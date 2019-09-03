@@ -1,0 +1,23 @@
+#Internal package file, do not edit.
+#Wed Aug 07 09:34:19 CEST 2019
+2.base=/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/RedReader/build/intermediates/merged_assets/debug/out
+0.path=fonts/VeraMono.ttf
+2.baseType=DIRECTORY
+3.base=/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/RedReader/build/intermediates/merged_assets/debug/out
+2.set=ASSET
+1.path=license.html
+4.base=/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/RedReader/build/intermediates/transforms/dexMerger/debug/0
+count=5
+2.path=fonts/Roboto-Light.ttf
+4.set=DEX
+3.path=changelog.txt
+3.baseType=DIRECTORY
+1.set=ASSET
+4.path=classes.dex
+1.baseType=DIRECTORY
+0.base=/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/RedReader/build/intermediates/merged_assets/debug/out
+0.baseType=DIRECTORY
+3.set=ASSET
+1.base=/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/RedReader/build/intermediates/merged_assets/debug/out
+4.baseType=DIRECTORY
+0.set=ASSET

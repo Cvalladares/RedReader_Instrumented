@@ -1,0 +1,483 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/RedReader/src/main/AndroidManifest.xml:19:1-160:12
+INJECTED from /home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/RedReader/src/main/AndroidManifest.xml:19:1-160:12
+INJECTED from /home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/RedReader/src/main/AndroidManifest.xml:19:1-160:12
+INJECTED from /home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/RedReader/src/main/AndroidManifest.xml:19:1-160:12
+MERGED from [com.google.android.material:material:1.0.0] /home/christian/.gradle/caches/transforms-2/files-2.1/330b0b88babd2a1d2632fd10f9300092/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.0.0] /home/christian/.gradle/caches/transforms-2/files-2.1/6e645da2fe6981af84ae580faefad9a0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /home/christian/.gradle/caches/transforms-2/files-2.1/fee76072ac244efce668419146db4f72/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.exoplayer:exoplayer-ui:2.9.1] /home/christian/.gradle/caches/transforms-2/files-2.1/d0c42a8a8760bf86ea22536650eb93fe/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.media:media:1.0.0] /home/christian/.gradle/caches/transforms-2/files-2.1/3c5315365f1ad52822c9a2ca7ca0632f/AndroidManifest.xml:17:1-22:12
+MERGED from [:android_prefetching_lib] /home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/RedReader/android_prefetching_lib/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-13:12
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.9.1] /home/christian/.gradle/caches/transforms-2/files-2.1/979151fa469c5fd5a1a24c4b688b93f9/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] /home/christian/.gradle/caches/transforms-2/files-2.1/c7af90c624a326c01e2fa8e9b5ecc646/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.fragment:fragment:1.0.0] /home/christian/.gradle/caches/transforms-2/files-2.1/3c72a48ea24730443b17a430b6dd83bf/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /home/christian/.gradle/caches/transforms-2/files-2.1/c710f695f42d19b15724fa00ab562968/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/christian/.gradle/caches/transforms-2/files-2.1/3bc6b297c495082222269a9580d666e8/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/christian/.gradle/caches/transforms-2/files-2.1/306f53ddc9ac1244980c607fef856ab2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] /home/christian/.gradle/caches/transforms-2/files-2.1/9c2f37dcb860edfc8d67fdc1daad581c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.0.0] /home/christian/.gradle/caches/transforms-2/files-2.1/18dd0431c93252942c524b32577bec55/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.room:room-runtime:2.1.0] /home/christian/.gradle/caches/transforms-2/files-2.1/8b900b641c8ac6d396c39fb791a78343/AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.loader:loader:1.0.0] /home/christian/.gradle/caches/transforms-2/files-2.1/6de2b717a7e9feedae3a36b4db6531de/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/christian/.gradle/caches/transforms-2/files-2.1/a8f60a80b973bc3ea770813b4dac054f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/christian/.gradle/caches/transforms-2/files-2.1/c2de75008113b470463acb987f4a1f53/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/christian/.gradle/caches/transforms-2/files-2.1/7ad7bc3b8211fbec81a978d5db28088a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/christian/.gradle/caches/transforms-2/files-2.1/48ae87c4677051752f724888190035ea/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /home/christian/.gradle/caches/transforms-2/files-2.1/43d2b7f1e77347bfb79e56e9e4a5984a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/christian/.gradle/caches/transforms-2/files-2.1/a17ca3a138038dd8d99671b2437a81b4/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/christian/.gradle/caches/transforms-2/files-2.1/e54da9dfdd76ccda6981369cd95e2ebc/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.0] /home/christian/.gradle/caches/transforms-2/files-2.1/627472d7bb369ec5f5d2ed0ed6c0d59d/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/christian/.gradle/caches/transforms-2/files-2.1/f5aed8cb5b055e64dc27f6321422ccd0/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/christian/.gradle/caches/transforms-2/files-2.1/f67ed6067574d397b83873831d68caf0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] /home/christian/.gradle/caches/transforms-2/files-2.1/cf0eacf1364544bccc5b9b85130eb22d/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] /home/christian/.gradle/caches/transforms-2/files-2.1/36bd6903496854c509876308cff34915/AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.lifecycle:lifecycle-service:2.0.0] /home/christian/.gradle/caches/transforms-2/files-2.1/645e152bf8572a710d631988871290b1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/christian/.gradle/caches/transforms-2/files-2.1/4b16c5939cc9827b791c9fc4d2936db4/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/christian/.gradle/caches/transforms-2/files-2.1/fc7f649d509978a5133fb6fc4fddc54d/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/christian/.gradle/caches/transforms-2/files-2.1/fc11b540590db765dfbcd15c6ba60615/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /home/christian/.gradle/caches/transforms-2/files-2.1/8af7574057a90509ba73d9a6ffb7afe3/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/christian/.gradle/caches/transforms-2/files-2.1/714c27664aa087359a7e943f64f1048a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/christian/.gradle/caches/transforms-2/files-2.1/13dee3f839e006d468f203f3c4955bca/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite-framework:2.0.1] /home/christian/.gradle/caches/transforms-2/files-2.1/9c36352ec3da7668ea1fb64cb2ae6777/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite:2.0.1] /home/christian/.gradle/caches/transforms-2/files-2.1/5bd35321fbb54a3112a70eae531b3d04/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/christian/.gradle/caches/transforms-2/files-2.1/93026758881abc81ddaa4e02055df1aa/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/christian/.gradle/caches/transforms-2/files-2.1/989cbe47f0d0e0579f2a87fe16036fc5/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.1] /home/christian/.gradle/caches/transforms-2/files-2.1/2ac04006c8af465a531c074598826ef6/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/RedReader/src/main/AndroidManifest.xml:19:1-160:12
+INJECTED from /home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/RedReader/src/main/AndroidManifest.xml:19:1-160:12
+INJECTED from /home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/RedReader/src/main/AndroidManifest.xml:19:1-160:12
+	package
+		ADDED from /home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/RedReader/src/main/AndroidManifest.xml:20:11-48
+		INJECTED from /home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/RedReader/src/main/AndroidManifest.xml
+		INJECTED from /home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/RedReader/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/RedReader/src/main/AndroidManifest.xml:22:11-39
+		INJECTED from /home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/RedReader/src/main/AndroidManifest.xml
+		INJECTED from /home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/RedReader/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/RedReader/src/main/AndroidManifest.xml:19:11-69
+	android:versionCode
+		ADDED from /home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/RedReader/src/main/AndroidManifest.xml:21:11-35
+		INJECTED from /home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/RedReader/src/main/AndroidManifest.xml
+		INJECTED from /home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/RedReader/src/main/AndroidManifest.xml
+	android:installLocation
+		ADDED from /home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/RedReader/src/main/AndroidManifest.xml:23:11-41
+uses-feature#0x00020000
+ADDED from /home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/RedReader/src/main/AndroidManifest.xml:25:5-78
+	android:glEsVersion
+		ADDED from /home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/RedReader/src/main/AndroidManifest.xml:25:19-51
+	android:required
+		ADDED from /home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/RedReader/src/main/AndroidManifest.xml:25:52-75
+uses-permission#android.permission.INTERNET
+ADDED from /home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/RedReader/src/main/AndroidManifest.xml:27:5-67
+	android:name
+		ADDED from /home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/RedReader/src/main/AndroidManifest.xml:27:22-64
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/RedReader/src/main/AndroidManifest.xml:28:5-80
+MERGED from [:android_prefetching_lib] /home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/RedReader/android_prefetching_lib/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-80
+MERGED from [:android_prefetching_lib] /home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/RedReader/android_prefetching_lib/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-80
+	android:name
+		ADDED from /home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/RedReader/src/main/AndroidManifest.xml:28:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/RedReader/src/main/AndroidManifest.xml:29:5-81
+	android:name
+		ADDED from /home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/RedReader/src/main/AndroidManifest.xml:29:22-78
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/RedReader/src/main/AndroidManifest.xml:30:5-78
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.9.1] /home/christian/.gradle/caches/transforms-2/files-2.1/979151fa469c5fd5a1a24c4b688b93f9/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.9.1] /home/christian/.gradle/caches/transforms-2/files-2.1/979151fa469c5fd5a1a24c4b688b93f9/AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from /home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/RedReader/src/main/AndroidManifest.xml:30:22-76
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from /home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/RedReader/src/main/AndroidManifest.xml:31:5-80
+	android:name
+		ADDED from /home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/RedReader/src/main/AndroidManifest.xml:31:22-78
+application
+ADDED from /home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/RedReader/src/main/AndroidManifest.xml:33:5-158:19
+MERGED from [com.google.android.material:material:1.0.0] /home/christian/.gradle/caches/transforms-2/files-2.1/330b0b88babd2a1d2632fd10f9300092/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0] /home/christian/.gradle/caches/transforms-2/files-2.1/330b0b88babd2a1d2632fd10f9300092/AndroidManifest.xml:22:5-20
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] /home/christian/.gradle/caches/transforms-2/files-2.1/c7af90c624a326c01e2fa8e9b5ecc646/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] /home/christian/.gradle/caches/transforms-2/files-2.1/c7af90c624a326c01e2fa8e9b5ecc646/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.room:room-runtime:2.1.0] /home/christian/.gradle/caches/transforms-2/files-2.1/8b900b641c8ac6d396c39fb791a78343/AndroidManifest.xml:24:5-28:19
+MERGED from [androidx.room:room-runtime:2.1.0] /home/christian/.gradle/caches/transforms-2/files-2.1/8b900b641c8ac6d396c39fb791a78343/AndroidManifest.xml:24:5-28:19
+MERGED from [androidx.core:core:1.0.0] /home/christian/.gradle/caches/transforms-2/files-2.1/627472d7bb369ec5f5d2ed0ed6c0d59d/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.0] /home/christian/.gradle/caches/transforms-2/files-2.1/627472d7bb369ec5f5d2ed0ed6c0d59d/AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/christian/.gradle/caches/transforms-2/files-2.1/f5aed8cb5b055e64dc27f6321422ccd0/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/christian/.gradle/caches/transforms-2/files-2.1/f5aed8cb5b055e64dc27f6321422ccd0/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] /home/christian/.gradle/caches/transforms-2/files-2.1/36bd6903496854c509876308cff34915/AndroidManifest.xml:22:5-28:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] /home/christian/.gradle/caches/transforms-2/files-2.1/36bd6903496854c509876308cff34915/AndroidManifest.xml:22:5-28:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.0] /home/christian/.gradle/caches/transforms-2/files-2.1/627472d7bb369ec5f5d2ed0ed6c0d59d/AndroidManifest.xml:22:18-86
+	android:label
+		ADDED from /home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/RedReader/src/main/AndroidManifest.xml:35:18-50
+	android:hardwareAccelerated
+		ADDED from /home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/RedReader/src/main/AndroidManifest.xml:38:18-52
+	android:largeHeap
+		ADDED from /home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/RedReader/src/main/AndroidManifest.xml:37:18-42
+	android:icon
+		ADDED from /home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/RedReader/src/main/AndroidManifest.xml:34:18-47
+	android:allowBackup
+		ADDED from /home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/RedReader/src/main/AndroidManifest.xml:39:18-44
+	android:theme
+		ADDED from /home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/RedReader/src/main/AndroidManifest.xml:36:18-51
+	android:name
+		ADDED from /home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/RedReader/src/main/AndroidManifest.xml:33:18-70
+meta-data#android.max_aspect
+ADDED from /home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/RedReader/src/main/AndroidManifest.xml:40:3-70
+	android:value
+		ADDED from /home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/RedReader/src/main/AndroidManifest.xml:40:48-67
+	android:name
+		ADDED from /home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/RedReader/src/main/AndroidManifest.xml:40:14-47
+meta-data#com.lge.support.SPLIT_WINDOW
+ADDED from /home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/RedReader/src/main/AndroidManifest.xml:42:3-81
+	android:value
+		ADDED from /home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/RedReader/src/main/AndroidManifest.xml:42:58-78
+	android:name
+		ADDED from /home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/RedReader/src/main/AndroidManifest.xml:42:14-57
+activity#org.quantumbadger.redreader.activities.MainActivity
+ADDED from /home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/RedReader/src/main/AndroidManifest.xml:44:9-56:20
+	android:clearTaskOnLaunch
+		ADDED from /home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/RedReader/src/main/AndroidManifest.xml:46:19-52
+	android:configChanges
+		ADDED from /home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/RedReader/src/main/AndroidManifest.xml:45:19-80
+	android:alwaysRetainTaskState
+		ADDED from /home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/RedReader/src/main/AndroidManifest.xml:48:19-55
+	android:finishOnTaskLaunch
+		ADDED from /home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/RedReader/src/main/AndroidManifest.xml:47:19-53
+	android:name
+		ADDED from /home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/RedReader/src/main/AndroidManifest.xml:44:19-58
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER+category:name:android.intent.category.MULTIWINDOW_LAUNCHER
+ADDED from /home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/RedReader/src/main/AndroidManifest.xml:50:13-54:29
+action#android.intent.action.MAIN
+ADDED from /home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/RedReader/src/main/AndroidManifest.xml:51:17-69
+	android:name
+		ADDED from /home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/RedReader/src/main/AndroidManifest.xml:51:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/RedReader/src/main/AndroidManifest.xml:52:17-77
+	android:name
+		ADDED from /home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/RedReader/src/main/AndroidManifest.xml:52:27-74
+category#android.intent.category.MULTIWINDOW_LAUNCHER
+ADDED from /home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/RedReader/src/main/AndroidManifest.xml:53:17-89
+	android:name
+		ADDED from /home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/RedReader/src/main/AndroidManifest.xml:53:27-86
+activity#org.quantumbadger.redreader.settings.SettingsActivity
+ADDED from /home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/RedReader/src/main/AndroidManifest.xml:58:9-59:83
+	android:configChanges
+		ADDED from /home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/RedReader/src/main/AndroidManifest.xml:59:19-80
+	android:name
+		ADDED from /home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/RedReader/src/main/AndroidManifest.xml:58:19-60
+activity#org.quantumbadger.redreader.activities.LinkDispatchActivity
+ADDED from /home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/RedReader/src/main/AndroidManifest.xml:61:9-73:20
+	android:name
+		ADDED from /home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/RedReader/src/main/AndroidManifest.xml:61:19-66
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:*.reddit.com+data:host:*.reddit.com+data:host:redd.it+data:host:redd.it+data:host:reddit.com+data:host:reddit.com+data:scheme:http+data:scheme:http+data:scheme:http+data:scheme:https+data:scheme:https+data:scheme:https
+ADDED from /home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/RedReader/src/main/AndroidManifest.xml:62:13-72:29
+action#android.intent.action.VIEW
+ADDED from /home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/RedReader/src/main/AndroidManifest.xml:63:17-69
+	android:name
+		ADDED from /home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/RedReader/src/main/AndroidManifest.xml:63:25-66
+category#android.intent.category.DEFAULT
+ADDED from /home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/RedReader/src/main/AndroidManifest.xml:64:17-76
+	android:name
+		ADDED from /home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/RedReader/src/main/AndroidManifest.xml:64:27-73
+category#android.intent.category.BROWSABLE
+ADDED from /home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/RedReader/src/main/AndroidManifest.xml:65:17-78
+	android:name
+		ADDED from /home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/RedReader/src/main/AndroidManifest.xml:65:27-75
+data
+ADDED from /home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/RedReader/src/main/AndroidManifest.xml:66:17-75
+	android:host
+		ADDED from /home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/RedReader/src/main/AndroidManifest.xml:66:45-72
+	android:scheme
+		ADDED from /home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/RedReader/src/main/AndroidManifest.xml:66:23-44
+	android:mimeType
+		ADDED from /home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/RedReader/src/main/AndroidManifest.xml:121:23-52
+activity#org.quantumbadger.redreader.activities.PostListingActivity
+ADDED from /home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/RedReader/src/main/AndroidManifest.xml:75:9-76:71
+	android:configChanges
+		ADDED from /home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/RedReader/src/main/AndroidManifest.xml:76:7-68
+	android:name
+		ADDED from /home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/RedReader/src/main/AndroidManifest.xml:75:19-65
+activity#org.quantumbadger.redreader.activities.CommentListingActivity
+ADDED from /home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/RedReader/src/main/AndroidManifest.xml:78:9-79:71
+	android:configChanges
+		ADDED from /home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/RedReader/src/main/AndroidManifest.xml:79:7-68
+	android:name
+		ADDED from /home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/RedReader/src/main/AndroidManifest.xml:78:19-68
+activity#org.quantumbadger.redreader.activities.ChangelogActivity
+ADDED from /home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/RedReader/src/main/AndroidManifest.xml:81:3-82:71
+	android:configChanges
+		ADDED from /home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/RedReader/src/main/AndroidManifest.xml:82:7-68
+	android:name
+		ADDED from /home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/RedReader/src/main/AndroidManifest.xml:81:13-57
+activity#org.quantumbadger.redreader.activities.ImgurUploadActivity
+ADDED from /home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/RedReader/src/main/AndroidManifest.xml:84:3-85:71
+	android:configChanges
+		ADDED from /home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/RedReader/src/main/AndroidManifest.xml:85:7-68
+	android:name
+		ADDED from /home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/RedReader/src/main/AndroidManifest.xml:84:13-59
+activity#org.quantumbadger.redreader.activities.MoreCommentsListingActivity
+ADDED from /home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/RedReader/src/main/AndroidManifest.xml:87:3-88:71
+	android:configChanges
+		ADDED from /home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/RedReader/src/main/AndroidManifest.xml:88:7-68
+	android:name
+		ADDED from /home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/RedReader/src/main/AndroidManifest.xml:87:13-67
+activity#org.quantumbadger.redreader.activities.WebViewActivity
+ADDED from /home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/RedReader/src/main/AndroidManifest.xml:90:9-92:51
+	android:configChanges
+		ADDED from /home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/RedReader/src/main/AndroidManifest.xml:91:19-80
+	android:theme
+		ADDED from /home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/RedReader/src/main/AndroidManifest.xml:92:19-49
+	android:name
+		ADDED from /home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/RedReader/src/main/AndroidManifest.xml:90:19-61
+activity#org.quantumbadger.redreader.activities.HtmlViewActivity
+ADDED from /home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/RedReader/src/main/AndroidManifest.xml:94:9-95:82
+	android:configChanges
+		ADDED from /home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/RedReader/src/main/AndroidManifest.xml:95:19-80
+	android:name
+		ADDED from /home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/RedReader/src/main/AndroidManifest.xml:94:19-62
+activity#org.quantumbadger.redreader.activities.OAuthLoginActivity
+ADDED from /home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/RedReader/src/main/AndroidManifest.xml:97:9-98:82
+	android:configChanges
+		ADDED from /home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/RedReader/src/main/AndroidManifest.xml:98:19-80
+	android:name
+		ADDED from /home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/RedReader/src/main/AndroidManifest.xml:97:19-64
+activity#org.quantumbadger.redreader.activities.AlbumListingActivity
+ADDED from /home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/RedReader/src/main/AndroidManifest.xml:100:9-101:82
+	android:configChanges
+		ADDED from /home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/RedReader/src/main/AndroidManifest.xml:101:19-80
+	android:name
+		ADDED from /home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/RedReader/src/main/AndroidManifest.xml:100:19-66
+activity#org.quantumbadger.redreader.activities.ImageViewActivity
+ADDED from /home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/RedReader/src/main/AndroidManifest.xml:103:9-105:51
+	android:configChanges
+		ADDED from /home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/RedReader/src/main/AndroidManifest.xml:104:19-80
+	android:theme
+		ADDED from /home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/RedReader/src/main/AndroidManifest.xml:105:19-49
+	android:name
+		ADDED from /home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/RedReader/src/main/AndroidManifest.xml:103:19-63
+activity#org.quantumbadger.redreader.activities.CommentReplyActivity
+ADDED from /home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/RedReader/src/main/AndroidManifest.xml:107:9-108:82
+	android:configChanges
+		ADDED from /home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/RedReader/src/main/AndroidManifest.xml:108:19-80
+	android:name
+		ADDED from /home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/RedReader/src/main/AndroidManifest.xml:107:19-66
+activity#org.quantumbadger.redreader.activities.CommentEditActivity
+ADDED from /home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/RedReader/src/main/AndroidManifest.xml:110:9-111:82
+	android:configChanges
+		ADDED from /home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/RedReader/src/main/AndroidManifest.xml:111:19-80
+	android:name
+		ADDED from /home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/RedReader/src/main/AndroidManifest.xml:110:19-65
+activity#org.quantumbadger.redreader.activities.PMSendActivity
+ADDED from /home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/RedReader/src/main/AndroidManifest.xml:113:3-114:70
+	android:configChanges
+		ADDED from /home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/RedReader/src/main/AndroidManifest.xml:114:7-68
+	android:name
+		ADDED from /home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/RedReader/src/main/AndroidManifest.xml:113:13-54
+activity#org.quantumbadger.redreader.activities.PostSubmitActivity
+ADDED from /home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/RedReader/src/main/AndroidManifest.xml:116:9-123:20
+	android:configChanges
+		ADDED from /home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/RedReader/src/main/AndroidManifest.xml:117:19-80
+	android:name
+		ADDED from /home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/RedReader/src/main/AndroidManifest.xml:116:19-64
+intent-filter#action:name:android.intent.action.SEND+category:name:android.intent.category.DEFAULT+data:mimeType:text/plain
+ADDED from /home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/RedReader/src/main/AndroidManifest.xml:118:13-122:29
+action#android.intent.action.SEND
+ADDED from /home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/RedReader/src/main/AndroidManifest.xml:119:17-69
+	android:name
+		ADDED from /home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/RedReader/src/main/AndroidManifest.xml:119:25-66
+activity#org.quantumbadger.redreader.activities.BugReportActivity
+ADDED from /home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/RedReader/src/main/AndroidManifest.xml:125:9-127:56
+	android:launchMode
+		ADDED from /home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/RedReader/src/main/AndroidManifest.xml:127:19-54
+	android:configChanges
+		ADDED from /home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/RedReader/src/main/AndroidManifest.xml:126:19-80
+	android:name
+		ADDED from /home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/RedReader/src/main/AndroidManifest.xml:125:19-63
+activity#org.quantumbadger.redreader.activities.InboxListingActivity
+ADDED from /home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/RedReader/src/main/AndroidManifest.xml:129:9-130:82
+	android:configChanges
+		ADDED from /home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/RedReader/src/main/AndroidManifest.xml:130:19-80
+	android:name
+		ADDED from /home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/RedReader/src/main/AndroidManifest.xml:129:19-66
+receiver#org.quantumbadger.redreader.receivers.NewMessageChecker
+ADDED from /home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/RedReader/src/main/AndroidManifest.xml:132:9-64
+	android:name
+		ADDED from /home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/RedReader/src/main/AndroidManifest.xml:132:19-62
+receiver#org.quantumbadger.redreader.receivers.RegularCachePruner
+ADDED from /home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/RedReader/src/main/AndroidManifest.xml:133:9-65
+	android:name
+		ADDED from /home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/RedReader/src/main/AndroidManifest.xml:133:19-63
+receiver#org.quantumbadger.redreader.receivers.BootReceiver
+ADDED from /home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/RedReader/src/main/AndroidManifest.xml:134:9-138:20
+	android:name
+		ADDED from /home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/RedReader/src/main/AndroidManifest.xml:134:19-57
+intent-filter#action:name:android.intent.action.BOOT_COMPLETED
+ADDED from /home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/RedReader/src/main/AndroidManifest.xml:135:13-137:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from /home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/RedReader/src/main/AndroidManifest.xml:136:17-78
+	android:name
+		ADDED from /home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/RedReader/src/main/AndroidManifest.xml:136:25-76
+uses-library#com.sec.android.app.multiwindow
+ADDED from /home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/RedReader/src/main/AndroidManifest.xml:140:9-97
+	android:required
+		ADDED from /home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/RedReader/src/main/AndroidManifest.xml:140:23-47
+	android:name
+		ADDED from /home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/RedReader/src/main/AndroidManifest.xml:140:48-94
+meta-data#com.sec.android.support.multiwindow
+ADDED from /home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/RedReader/src/main/AndroidManifest.xml:141:9-94
+	android:value
+		ADDED from /home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/RedReader/src/main/AndroidManifest.xml:141:71-91
+	android:name
+		ADDED from /home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/RedReader/src/main/AndroidManifest.xml:141:20-70
+meta-data#com.sec.android.multiwindow.DEFAULT_SIZE_W
+ADDED from /home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/RedReader/src/main/AndroidManifest.xml:143:9-124
+	android:resource
+		ADDED from /home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/RedReader/src/main/AndroidManifest.xml:143:78-121
+	android:name
+		ADDED from /home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/RedReader/src/main/AndroidManifest.xml:143:20-77
+meta-data#com.sec.android.multiwindow.DEFAULT_SIZE_H
+ADDED from /home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/RedReader/src/main/AndroidManifest.xml:144:9-124
+	android:resource
+		ADDED from /home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/RedReader/src/main/AndroidManifest.xml:144:78-121
+	android:name
+		ADDED from /home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/RedReader/src/main/AndroidManifest.xml:144:20-77
+meta-data#com.sec.android.multiwindow.MINIMUM_SIZE_W
+ADDED from /home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/RedReader/src/main/AndroidManifest.xml:145:9-124
+	android:resource
+		ADDED from /home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/RedReader/src/main/AndroidManifest.xml:145:78-121
+	android:name
+		ADDED from /home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/RedReader/src/main/AndroidManifest.xml:145:20-77
+meta-data#com.sec.android.multiwindow.MINIMUM_SIZE_H
+ADDED from /home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/RedReader/src/main/AndroidManifest.xml:146:9-124
+	android:resource
+		ADDED from /home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/RedReader/src/main/AndroidManifest.xml:146:78-121
+	android:name
+		ADDED from /home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/RedReader/src/main/AndroidManifest.xml:146:20-77
+provider#androidx.core.content.FileProvider
+ADDED from /home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/RedReader/src/main/AndroidManifest.xml:148:3-157:14
+	android:grantUriPermissions
+		ADDED from /home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/RedReader/src/main/AndroidManifest.xml:152:5-39
+	android:authorities
+		ADDED from /home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/RedReader/src/main/AndroidManifest.xml:150:5-63
+	android:exported
+		ADDED from /home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/RedReader/src/main/AndroidManifest.xml:151:5-29
+	android:name
+		ADDED from /home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/RedReader/src/main/AndroidManifest.xml:149:5-54
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from /home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/RedReader/src/main/AndroidManifest.xml:153:4-156:16
+	android:resource
+		ADDED from /home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/RedReader/src/main/AndroidManifest.xml:155:6-40
+	android:name
+		ADDED from /home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/RedReader/src/main/AndroidManifest.xml:154:6-56
+uses-sdk
+INJECTED from /home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/RedReader/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/RedReader/src/main/AndroidManifest.xml
+INJECTED from /home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/RedReader/src/main/AndroidManifest.xml
+MERGED from [com.google.android.material:material:1.0.0] /home/christian/.gradle/caches/transforms-2/files-2.1/330b0b88babd2a1d2632fd10f9300092/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] /home/christian/.gradle/caches/transforms-2/files-2.1/330b0b88babd2a1d2632fd10f9300092/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.0] /home/christian/.gradle/caches/transforms-2/files-2.1/6e645da2fe6981af84ae580faefad9a0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.0] /home/christian/.gradle/caches/transforms-2/files-2.1/6e645da2fe6981af84ae580faefad9a0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /home/christian/.gradle/caches/transforms-2/files-2.1/fee76072ac244efce668419146db4f72/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /home/christian/.gradle/caches/transforms-2/files-2.1/fee76072ac244efce668419146db4f72/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.exoplayer:exoplayer-ui:2.9.1] /home/christian/.gradle/caches/transforms-2/files-2.1/d0c42a8a8760bf86ea22536650eb93fe/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-ui:2.9.1] /home/christian/.gradle/caches/transforms-2/files-2.1/d0c42a8a8760bf86ea22536650eb93fe/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media:media:1.0.0] /home/christian/.gradle/caches/transforms-2/files-2.1/3c5315365f1ad52822c9a2ca7ca0632f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /home/christian/.gradle/caches/transforms-2/files-2.1/3c5315365f1ad52822c9a2ca7ca0632f/AndroidManifest.xml:20:5-44
+MERGED from [:android_prefetching_lib] /home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/RedReader/android_prefetching_lib/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:android_prefetching_lib] /home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/RedReader/android_prefetching_lib/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.9.1] /home/christian/.gradle/caches/transforms-2/files-2.1/979151fa469c5fd5a1a24c4b688b93f9/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.9.1] /home/christian/.gradle/caches/transforms-2/files-2.1/979151fa469c5fd5a1a24c4b688b93f9/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] /home/christian/.gradle/caches/transforms-2/files-2.1/c7af90c624a326c01e2fa8e9b5ecc646/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] /home/christian/.gradle/caches/transforms-2/files-2.1/c7af90c624a326c01e2fa8e9b5ecc646/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /home/christian/.gradle/caches/transforms-2/files-2.1/3c72a48ea24730443b17a430b6dd83bf/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /home/christian/.gradle/caches/transforms-2/files-2.1/3c72a48ea24730443b17a430b6dd83bf/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /home/christian/.gradle/caches/transforms-2/files-2.1/c710f695f42d19b15724fa00ab562968/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /home/christian/.gradle/caches/transforms-2/files-2.1/c710f695f42d19b15724fa00ab562968/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/christian/.gradle/caches/transforms-2/files-2.1/3bc6b297c495082222269a9580d666e8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/christian/.gradle/caches/transforms-2/files-2.1/3bc6b297c495082222269a9580d666e8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/christian/.gradle/caches/transforms-2/files-2.1/306f53ddc9ac1244980c607fef856ab2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/christian/.gradle/caches/transforms-2/files-2.1/306f53ddc9ac1244980c607fef856ab2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] /home/christian/.gradle/caches/transforms-2/files-2.1/9c2f37dcb860edfc8d67fdc1daad581c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] /home/christian/.gradle/caches/transforms-2/files-2.1/9c2f37dcb860edfc8d67fdc1daad581c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] /home/christian/.gradle/caches/transforms-2/files-2.1/18dd0431c93252942c524b32577bec55/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] /home/christian/.gradle/caches/transforms-2/files-2.1/18dd0431c93252942c524b32577bec55/AndroidManifest.xml:20:5-44
+MERGED from [androidx.room:room-runtime:2.1.0] /home/christian/.gradle/caches/transforms-2/files-2.1/8b900b641c8ac6d396c39fb791a78343/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-runtime:2.1.0] /home/christian/.gradle/caches/transforms-2/files-2.1/8b900b641c8ac6d396c39fb791a78343/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.loader:loader:1.0.0] /home/christian/.gradle/caches/transforms-2/files-2.1/6de2b717a7e9feedae3a36b4db6531de/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/christian/.gradle/caches/transforms-2/files-2.1/6de2b717a7e9feedae3a36b4db6531de/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/christian/.gradle/caches/transforms-2/files-2.1/a8f60a80b973bc3ea770813b4dac054f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/christian/.gradle/caches/transforms-2/files-2.1/a8f60a80b973bc3ea770813b4dac054f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/christian/.gradle/caches/transforms-2/files-2.1/c2de75008113b470463acb987f4a1f53/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/christian/.gradle/caches/transforms-2/files-2.1/c2de75008113b470463acb987f4a1f53/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/christian/.gradle/caches/transforms-2/files-2.1/7ad7bc3b8211fbec81a978d5db28088a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/christian/.gradle/caches/transforms-2/files-2.1/7ad7bc3b8211fbec81a978d5db28088a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/christian/.gradle/caches/transforms-2/files-2.1/48ae87c4677051752f724888190035ea/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/christian/.gradle/caches/transforms-2/files-2.1/48ae87c4677051752f724888190035ea/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/christian/.gradle/caches/transforms-2/files-2.1/43d2b7f1e77347bfb79e56e9e4a5984a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/christian/.gradle/caches/transforms-2/files-2.1/43d2b7f1e77347bfb79e56e9e4a5984a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/christian/.gradle/caches/transforms-2/files-2.1/a17ca3a138038dd8d99671b2437a81b4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/christian/.gradle/caches/transforms-2/files-2.1/a17ca3a138038dd8d99671b2437a81b4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/christian/.gradle/caches/transforms-2/files-2.1/e54da9dfdd76ccda6981369cd95e2ebc/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/christian/.gradle/caches/transforms-2/files-2.1/e54da9dfdd76ccda6981369cd95e2ebc/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] /home/christian/.gradle/caches/transforms-2/files-2.1/627472d7bb369ec5f5d2ed0ed6c0d59d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] /home/christian/.gradle/caches/transforms-2/files-2.1/627472d7bb369ec5f5d2ed0ed6c0d59d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/christian/.gradle/caches/transforms-2/files-2.1/f5aed8cb5b055e64dc27f6321422ccd0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/christian/.gradle/caches/transforms-2/files-2.1/f5aed8cb5b055e64dc27f6321422ccd0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/christian/.gradle/caches/transforms-2/files-2.1/f67ed6067574d397b83873831d68caf0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/christian/.gradle/caches/transforms-2/files-2.1/f67ed6067574d397b83873831d68caf0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/christian/.gradle/caches/transforms-2/files-2.1/cf0eacf1364544bccc5b9b85130eb22d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/christian/.gradle/caches/transforms-2/files-2.1/cf0eacf1364544bccc5b9b85130eb22d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] /home/christian/.gradle/caches/transforms-2/files-2.1/36bd6903496854c509876308cff34915/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] /home/christian/.gradle/caches/transforms-2/files-2.1/36bd6903496854c509876308cff34915/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.0.0] /home/christian/.gradle/caches/transforms-2/files-2.1/645e152bf8572a710d631988871290b1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.0.0] /home/christian/.gradle/caches/transforms-2/files-2.1/645e152bf8572a710d631988871290b1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/christian/.gradle/caches/transforms-2/files-2.1/4b16c5939cc9827b791c9fc4d2936db4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/christian/.gradle/caches/transforms-2/files-2.1/4b16c5939cc9827b791c9fc4d2936db4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/christian/.gradle/caches/transforms-2/files-2.1/fc7f649d509978a5133fb6fc4fddc54d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/christian/.gradle/caches/transforms-2/files-2.1/fc7f649d509978a5133fb6fc4fddc54d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/christian/.gradle/caches/transforms-2/files-2.1/fc11b540590db765dfbcd15c6ba60615/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/christian/.gradle/caches/transforms-2/files-2.1/fc11b540590db765dfbcd15c6ba60615/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/christian/.gradle/caches/transforms-2/files-2.1/8af7574057a90509ba73d9a6ffb7afe3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/christian/.gradle/caches/transforms-2/files-2.1/8af7574057a90509ba73d9a6ffb7afe3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/christian/.gradle/caches/transforms-2/files-2.1/714c27664aa087359a7e943f64f1048a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/christian/.gradle/caches/transforms-2/files-2.1/714c27664aa087359a7e943f64f1048a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/christian/.gradle/caches/transforms-2/files-2.1/13dee3f839e006d468f203f3c4955bca/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/christian/.gradle/caches/transforms-2/files-2.1/13dee3f839e006d468f203f3c4955bca/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.0.1] /home/christian/.gradle/caches/transforms-2/files-2.1/9c36352ec3da7668ea1fb64cb2ae6777/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.0.1] /home/christian/.gradle/caches/transforms-2/files-2.1/9c36352ec3da7668ea1fb64cb2ae6777/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.0.1] /home/christian/.gradle/caches/transforms-2/files-2.1/5bd35321fbb54a3112a70eae531b3d04/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.0.1] /home/christian/.gradle/caches/transforms-2/files-2.1/5bd35321fbb54a3112a70eae531b3d04/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/christian/.gradle/caches/transforms-2/files-2.1/93026758881abc81ddaa4e02055df1aa/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/christian/.gradle/caches/transforms-2/files-2.1/93026758881abc81ddaa4e02055df1aa/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/christian/.gradle/caches/transforms-2/files-2.1/989cbe47f0d0e0579f2a87fe16036fc5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/christian/.gradle/caches/transforms-2/files-2.1/989cbe47f0d0e0579f2a87fe16036fc5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.1] /home/christian/.gradle/caches/transforms-2/files-2.1/2ac04006c8af465a531c074598826ef6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.1] /home/christian/.gradle/caches/transforms-2/files-2.1/2ac04006c8af465a531c074598826ef6/AndroidManifest.xml:20:5-44
+INJECTED from /home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/RedReader/src/main/AndroidManifest.xml
+INJECTED from /home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/RedReader/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/RedReader/src/main/AndroidManifest.xml
+		ADDED from /home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/RedReader/src/main/AndroidManifest.xml
+		INJECTED from /home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/RedReader/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/RedReader/src/main/AndroidManifest.xml
+		ADDED from /home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/RedReader/src/main/AndroidManifest.xml
+		INJECTED from /home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/RedReader/src/main/AndroidManifest.xml
+service#androidx.room.MultiInstanceInvalidationService
+ADDED from [androidx.room:room-runtime:2.1.0] /home/christian/.gradle/caches/transforms-2/files-2.1/8b900b641c8ac6d396c39fb791a78343/AndroidManifest.xml:25:9-27:40
+	android:exported
+		ADDED from [androidx.room:room-runtime:2.1.0] /home/christian/.gradle/caches/transforms-2/files-2.1/8b900b641c8ac6d396c39fb791a78343/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.room:room-runtime:2.1.0] /home/christian/.gradle/caches/transforms-2/files-2.1/8b900b641c8ac6d396c39fb791a78343/AndroidManifest.xml:26:13-74
+provider#androidx.lifecycle.ProcessLifecycleOwnerInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] /home/christian/.gradle/caches/transforms-2/files-2.1/36bd6903496854c509876308cff34915/AndroidManifest.xml:23:9-27:43
+	android:authorities
+		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] /home/christian/.gradle/caches/transforms-2/files-2.1/36bd6903496854c509876308cff34915/AndroidManifest.xml:25:13-69
+	android:multiprocess
+		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] /home/christian/.gradle/caches/transforms-2/files-2.1/36bd6903496854c509876308cff34915/AndroidManifest.xml:27:13-40
+	android:exported
+		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] /home/christian/.gradle/caches/transforms-2/files-2.1/36bd6903496854c509876308cff34915/AndroidManifest.xml:26:13-37
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] /home/christian/.gradle/caches/transforms-2/files-2.1/36bd6903496854c509876308cff34915/AndroidManifest.xml:24:13-79

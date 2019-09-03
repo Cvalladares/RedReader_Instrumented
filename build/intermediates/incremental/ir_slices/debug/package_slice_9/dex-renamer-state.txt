@@ -1,0 +1,4 @@
+#Tue Jul 23 18:09:00 CEST 2019
+base.0=C\:\\School Projects\\Thesis\\Selected_Repositories\\Instrumented\\Working\\RedReader\\build\\intermediates\\transforms\\dexMerger\\debug\\9
+path.0=classes.dex
+renamed.0=classes.dex
